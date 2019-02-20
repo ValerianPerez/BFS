@@ -1,41 +1,15 @@
-# Beautifull and Fancy Scanner
+# Beautiful and Fancy Scanner
 
-Chef d'Oeuvre de M2 IGAI 2018/2019 fait par Chems Edine Himeur, Valérian Perez, Valentin Tran et QI Zhao.
+Chef d'Oeuvre de M2 IGAI 2018/2019.
+Auteur : Chems Edine Himeur, Valérian Perez, Valentin Tran et QI Zhao.
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ValerianPerez/BFS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ce programme tournant avec Octave permet d'extraire le nom d'une carte _Magic : The Gathering_ à partir d'une photo prise par un téléphone et d'interroger une base de donnée distante pour connaitre les détails la concernant. Ce projet intervient dans le cadre du projet de fin d'année du Master 2 d'Informatique Graphique et Analyse d'Image de l'Université Paul Sabatier, promotion 2018/2019.
 
-### Markdown
+## Présentation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Résultats
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ValerianPerez/BFS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Axe de réflexion
