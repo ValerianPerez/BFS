@@ -1,4 +1,4 @@
-function [coor,stats] = edges(img)
+function [coor,stats] = edges(img, debug)
 [n m] = size(img); 
 SS = n*m; 
 bw = im2bw(img);
@@ -6,7 +6,7 @@ bw = im2bw(img);
 stats = [regionprops(bw); regionprops(not(bw))];  
 % show the image and draw the detected rectangles on it
 %imshow(bw); 
-hold on;
+##hold on;
 did =0; 
 first = 0;
 coor =zeros(1,5); 
@@ -15,7 +15,7 @@ for i = 1:numel(stats)
    b =round(stats(i).BoundingBox(4));
     f = a*b*100/SS;
 
-  if(f>99) 
+  if(f>99 && debug) 
    
     c='r';
     l ='--';
