@@ -1,3 +1,7 @@
+#Beautifull and Fancy Scanner
+
+Chef d'Oeuvre de M2 IGAI 2018/2019 fait par Chems Edine Himeur, Valérian Perez, Valentin Tran et QI Zhao.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ValerianPerez/BFS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
