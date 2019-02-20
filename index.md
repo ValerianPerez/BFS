@@ -1,4 +1,4 @@
-#Beautifull and Fancy Scanner
+# Beautifull and Fancy Scanner
 
 Chef d'Oeuvre de M2 IGAI 2018/2019 fait par Chems Edine Himeur, Valérian Perez, Valentin Tran et QI Zhao.
 
