@@ -38,8 +38,8 @@ Voici deux photos suivit de leur analyse par le programme et parfaitement bien r
 
 Toutefois, les résultats peuvent parfois être moins bon. Ici, l *B* est malreconnu et pris pour un k et il en va de même pour le *x* final, qui est pris pour un a.
 
-![bernard](/website_ressources/bernardOriginale.jpg)
-![bernardOriginale](/website_ressources/bernard.jpg)
+![bernardOriginale](/website_ressources/bernardOriginale.jpg)
+![bernard](/website_ressources/bernard.JPG)
 
 Et dans les cas les plus extrêmes, il peut ne rien reconnaitre du tout. Ici, c'est une carte altérée, qui ne présente peu de similarité avec l'image de base
 
