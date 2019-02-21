@@ -31,9 +31,8 @@ Les essais suivants donnent un très bon résultat de détection et de reconnais
 
 Voici deux photos suivit de leur analyse par le programme.
 
-[rageOriginale](website_ressources/rageOriginale.jpg )
-  <div class="column">
-    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/rage.JPG" alt="rageOriginale" width="60%" height="60%">  
+![rageOriginale](/website_ressources/rageOriginale.jpg)
+![rage](/website_ressources/rage.JPG)
   </div>
 </br>
 <div class="row">
