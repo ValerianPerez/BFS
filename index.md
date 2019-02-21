@@ -21,10 +21,10 @@ Voici la description des zones :
 1. Ce bouton sert à charger une image
 1. Ce bouton sert à lancer le traitement de l'image
 
-Pour utiliser le programme, rien de plus, l'utilisateur clique sur _OPEN IMAGE_, choisit l'image qu'il souhaite traiter, puis clique sur _Process_ et la magie opère ! Tout le traitement s'effectue seul et les résultats s'affiche à la fin.
+Nous avons construit le programme afin qu’il soit simple à utiliser : l'utilisateur clique sur _OPEN IMAGE_, choisit l'image qu'il souhaite traiter, puis clique sur _Process_ et la magie opère ! Tout le traitement s'effectue de façon autonome et les résultats s'affichent à la fin dans les zones dédiées.
 
 ## Résultats
-Les essaies suivants donnent un très bon résultat de détection et de reconnaissance de caractère. Toutefois la liaison avec la BDD, qui est un serveur externe, ne pouvait se faire dans l'environnement de test, d'où l'absence de resultat dans la zone 4.
+Les essaies suivants donnent un très bon résultat de détection et de reconnaissance de caractère. Toutefois la liaison avec la base de données, ne pouvait se faire dans l'environnement de test, d'où l'absence de resultat dans la zone 4. Ici nous utilisons l'API mise à disposition par le site _scryfall.com_.
 ![RageDeSarkhan](/website_ressources/rage.JPG)
 ![AvaleurDeVastebois](/website_ressources/avaleur.JPG)
 
