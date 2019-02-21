@@ -50,7 +50,27 @@ Voici deux photos suivit de leur analyse par le programme.
 </div> 
 
 
-Toutefois, les résultats peuvent parfois être moins bon
+Toutefois, les résultats peuvent parfois être moins bon.
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/bernardOriginale.jpg" alt="avaleurOriginale" width="30%" height="30%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/bernard.JPG" alt="rageOriginale" width="60%" height="60%">  
+  </div>
+</div> 
+
+Et dans les cas les plus extrêmes, il peut ne rien reconnaitre du tout. Ici, c'est une carte altérée, qui ne présente peu de similarité avec l'image de base
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/avaleurOriginale.jpg" alt="avaleurOriginale" width="30%" height="30%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/avaleur.JPG" alt="rageOriginale" width="60%" height="60%">  
+  </div>
+</div> 
 
 ## Axe de réflexion
 
