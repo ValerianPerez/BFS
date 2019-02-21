@@ -33,7 +33,7 @@ Voici deux photos suivit de leur analyse par le programme.
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/rageOriginale.jpg" alt="rageOriginale" width="35%" height="35%">
+    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/rageOriginale.jpg" alt="rageOriginale" width="30%" height="30%">
   </div>
   <div class="column">
     <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/rage.JPG" alt="rageOriginale" width="60%" height="60%">  
@@ -42,7 +42,7 @@ Voici deux photos suivit de leur analyse par le programme.
 </br>
 <div class="row">
   <div class="column">
-    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/avaleurOriginale.jpg" alt="avaleurOriginale" width="35%" height="35%">
+    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/avaleurOriginale.jpg" alt="avaleurOriginale" width="30%" height="30%">
   </div>
   <div class="column">
     <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/avaleur.JPG" alt="rageOriginale" width="60%" height="60%">  
