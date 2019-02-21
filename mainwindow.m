@@ -1,7 +1,6 @@
 clear all 
 close all
 addpath('pipline/');
-addpath('pipline/jsonlab-master');
 pkg load image
 x = 0.02;
 y = 0.03125;

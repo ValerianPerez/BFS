@@ -1,5 +1,9 @@
-function c = uniq(cod)    
-    cod(cod(:,1)<10,:)=[];    
+function c = uniq(cod)
+   
+   % cod
+    cod(cod(:,1)<10,:)=[]; 
+     cod(cod(:,2)<10,:)=[]; 
+    %cod
     [n,~] =size(cod(cod(:,5)>0)); 
     
     t=1; 

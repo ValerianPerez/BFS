@@ -29,8 +29,8 @@ end
 etiquettes2 = bwlabel(gradientChannel, 8);
 
 if(display_debug)
-  figure('name', 'Extremal regions');
-  imagesc(etiquettes2); axis image;
+  %  figure('name', 'Extremal regions');
+  %  imagesc(etiquettes2); axis image;
 end
 
 %% Separation des zones extremale
