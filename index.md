@@ -1,7 +1,4 @@
-# Beautiful and Fancy Scanner
-
-Chef d'Oeuvre de M2 IGAI 2018/2019.
-Auteur : Chems Edine Himeur, Valérian Perez, Valentin Tran et QI Zhao.
+Auteurs : Chems Edine Himeur, Valérian Perez, Valentin Tran et Qi Zhao.
 
 
 ## Introduction
@@ -31,3 +28,7 @@ Les essaies suivants donnent un très bon résultat de détection et de reconnai
 
 ## Axe de réflexion
 
+Les résultats sont bons, mais sont relativement lents. L'implémentation dans un langage non natif en est la cause.
+Pour améliorer les performances de la solution, une traduction en Python ou en C++ serait bénéfique.
+Ensuite, la quantité de prétraitement est trop grande par rapport aux prises de vue, réfléchir à partir de ce constat pour les réarranger serait aussi une bonne piste d'amélioration.
+En dernier recours, une utilisation plus contrainte serait envisageable pour avoir un environnement plus contrôlé et s'abstraire de certains prétraitement.
