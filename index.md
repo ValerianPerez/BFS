@@ -22,6 +22,8 @@ Voici la description des zones :
 1. Ce bouton sert à charger une image
 1. Ce bouton sert à lancer le traitement de l'image
 
+Pour utiliser le programme, rien de plus, l'utilisateur clique sur _OPEN IMAGE_, choisit l'image qu'il souhaite traiter, puis clique sur _Process_ et la magie opère ! Tout le traitement s'effectue seul et les résultats s'affiche à la fin.
+
 ## Résultats
 
 ## Axe de réflexion
