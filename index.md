@@ -65,7 +65,7 @@ Et dans les cas les plus extrêmes, il peut ne rien reconnaitre du tout. Ici, c'
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/avaleurOriginale.jpg" alt="avaleurOriginale" width="30%" height="30%">
+    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/inkwellLev.jpg" alt="avaleurOriginale" width="30%" height="30%">
   </div>
   <div class="column">
     <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/avaleur.JPG" alt="rageOriginale" width="60%" height="60%">  
