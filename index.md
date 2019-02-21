@@ -31,14 +31,10 @@ Les essais suivants donnent un très bon résultat de détection et de reconnais
 
 Voici deux photos suivit de leur analyse par le programme.
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/rageOriginale.jpg" alt="rageOriginale" width="30%" height="30%">
-  </div>
+[rageOriginale](website_ressources/rageOriginale.jpg )
   <div class="column">
     <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/rage.JPG" alt="rageOriginale" width="60%" height="60%">  
   </div>
-</div>
 </br>
 <div class="row">
   <div class="column">
