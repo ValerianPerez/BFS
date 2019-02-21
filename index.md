@@ -29,43 +29,22 @@ La démarche à suivre est la suivante : l'utilisateur clique sur _OPEN IMAGE_, 
 ## Résultats
 Les essais suivants donnent un très bon résultat de détection et de reconnaissance de caractère. Toutefois la liaison avec la base de données, ne pouvait se faire dans l'environnement de test, d'où l'absence de resultat dans la zone 4. Ici nous utilisons l'API de base de donnée mise à disposition par le site _scryfall.com_.
 
-Voici deux photos suivit de leur analyse par le programme.
+Voici deux photos suivit de leur analyse par le programme et parfaitement bien reconnues.
 
 ![rageOriginale](/website_ressources/rageOriginale.jpg)
 ![rage](/website_ressources/rage.JPG)
-  </div>
-</br>
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/avaleurOriginale.jpg" alt="avaleurOriginale" width="30%" height="30%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/avaleur.JPG" alt="rageOriginale" width="60%" height="60%">  
-  </div>
-</div> 
+![avaleurOriginale](/website_ressources/avaleurOriginale.jpg)
+![avaleur](/website_ressources/avaleur.JPG)
 
+Toutefois, les résultats peuvent parfois être moins bon. Ici, l *B* est malreconnu et pris pour un k et il en va de même pour le *x* final, qui est pris pour un a.
 
-Toutefois, les résultats peuvent parfois être moins bon.
-
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/bernardOriginale.jpg" alt="avaleurOriginale" width="30%" height="30%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/bernard.JPG" alt="rageOriginale" width="60%" height="60%">  
-  </div>
-</div> 
+![bernard](/website_ressources/bernardOriginale.jpg)
+![bernardOriginale](/website_ressources/bernard.jpg)
 
 Et dans les cas les plus extrêmes, il peut ne rien reconnaitre du tout. Ici, c'est une carte altérée, qui ne présente peu de similarité avec l'image de base
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/inkwellLev.jpg" alt="avaleurOriginale" width="30%" height="30%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/avaleur.JPG" alt="rageOriginale" width="60%" height="60%">  
-  </div>
-</div> 
+![inlwellAltered](/website_ressources/inkwellAltered.jpg)
+![inkwellOriginale](/website_ressources/inkwellOriginale.jpg)
 
 ## Axe de réflexion
 
