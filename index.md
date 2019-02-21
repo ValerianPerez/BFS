@@ -3,7 +3,9 @@ Auteurs : Chems Edine Himeur, Valérian Perez, Valentin Tran et Qi Zhao.
 
 ## Introduction
 
-Ce programme tournant avec Octave permet d'extraire le nom d'une carte _Magic : The Gathering_ à partir d'une photo prise par un téléphone et d'interroger une base de donnée distante pour connaitre les détails la concernant. Ce projet intervient dans le cadre du projet de fin d'année du Master 2 d'Informatique Graphique et Analyse d'Image de l'Université Paul Sabatier, promotion 2018/2019.
+_Magic : the Gathering_ est le jeu de carte à collectionner le plus réputé au monde, fort de 25 ans d'existence et de dizaines de millions de joueurs au travers du monde, il manque pourtant d'outils permettant de classifier fiablement et rapidement des centaines de cartes à des fin de collection ou de vente. C'est sur ce créneaux que BFS intervient, il permet de reconnaitre une carte et d'en extraire les informations pertinentes avec une simple image. Ce n'est qu'un prototype, un _Proof of Concept_ permettant de mesurer la viabilité d'un tel procédé.
+
+Ce programme tournant sous Octave permet d'extraire le nom d'une carte _Magic : The Gathering_ à partir d'une photo prise par un téléphone et d'interroger une base de donnée distante pour connaitre les détails la concernant. Ce projet intervient dans le cadre du projet de fin d'année du Master 2 d'Informatique Graphique et Analyse d'Image de l'Université Paul Sabatier, promotion 2018/2019.
 
 ## Présentation & Utilisation
 
