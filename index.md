@@ -1,4 +1,4 @@
-Auteurs : Chems Edine Himeur, Valérian Perez, Valentin Tran et Qi Zhao.
+Auteurs : Chems Eddine Himeur, Valérian Perez, Valentin Tran et Qi Zhao.
 
 
 ## Introduction
