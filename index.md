@@ -1,3 +1,6 @@
+
+
+
 Auteurs : Chems Eddine Himeur, Valérian Perez, Valentin Tran et Qi Zhao.
 
 
@@ -25,8 +28,29 @@ La démarche à suivre est la suivante : l'utilisateur clique sur _OPEN IMAGE_, 
 
 ## Résultats
 Les essais suivants donnent un très bon résultat de détection et de reconnaissance de caractère. Toutefois la liaison avec la base de données, ne pouvait se faire dans l'environnement de test, d'où l'absence de resultat dans la zone 4. Ici nous utilisons l'API de base de donnée mise à disposition par le site _scryfall.com_.
-![RageDeSarkhan](/website_ressources/rage.JPG)
-![AvaleurDeVastebois](/website_ressources/avaleur.JPG)
+
+Voici deux photos suivit de leur analyse par le programme.
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/rageOriginale.jpg" alt="rageOriginale" width="35%" height="35%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/rage.JPG" alt="rageOriginale" width="60%" height="60%">  
+  </div>
+</div>
+</br>
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/avaleurOriginale.jpg" alt="avaleurOriginale" width="35%" height="35%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/ValerianPerez/BeautifulFancyScanner/blob/master/website_ressources/avaleur.JPG" alt="rageOriginale" width="60%" height="60%">  
+  </div>
+</div> 
+
+
+Toutefois, les résultats peuvent parfois être moins bon
 
 ## Axe de réflexion
 
