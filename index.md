@@ -10,6 +10,10 @@ Ce programme tournant avec Octave permet d'extraire le nom d'une carte _Magic : 
 
 ## Présentation
 
+Le logiciel est simple d'utilisation grâce à son interface facile d'accès. 
+
+![IHM](/website_ressources/IHM.jpg)
+
 ## Résultats
 
 ## Axe de réflexion
