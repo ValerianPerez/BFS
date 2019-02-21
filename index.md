@@ -25,5 +25,9 @@ Voici la description des zones :
 Pour utiliser le programme, rien de plus, l'utilisateur clique sur _OPEN IMAGE_, choisit l'image qu'il souhaite traiter, puis clique sur _Process_ et la magie opère ! Tout le traitement s'effectue seul et les résultats s'affiche à la fin.
 
 ## Résultats
+Les essaies suivants donnent un très bon résultat de détection et de reconnaissance de caractère. Toutefois la liaison avec la BDD, qui est un serveur externe, ne pouvait se faire dans l'environnement de test, d'où l'absence de resultat dans la zone 4.
+![RageDeSarkhan](/website_ressources/rage.JPG)
+![AvaleurDeVastebois](/website_ressources/avaleur.JPG)
 
 ## Axe de réflexion
+
